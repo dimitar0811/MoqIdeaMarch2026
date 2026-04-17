@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# NUnit2021: Incompatible types for EqualTo constraint
+dotnet_diagnostic.NUnit2021.severity = warning
